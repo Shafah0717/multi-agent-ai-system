@@ -1,0 +1,11 @@
+<h1>Multi-Agent AI Classifier</h1>
+<form method="post">
+  {% csrf_token %}
+  <textarea name="input_data" rows="10" cols="80"></textarea><br>
+  <button type="submit">Classify</button>
+</form>
+
+{% if result %}
+  <h2>Result:</h2>
+  <pre>{{ result }}</pre>
+{% endif %}
