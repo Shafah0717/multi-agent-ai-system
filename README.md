@@ -1,6 +1,6 @@
 # Multi Agent AI 
 
-######This project is a Multi-Agent AI that takes different kinds of inputs — like PDFs, JSON files, and Emails — and sends them to the right AI agents to process them. The agents also share information to work better together.
+##### This project is a Multi-Agent AI that takes different kinds of inputs — like PDFs, JSON files, and Emails — and sends them to the right AI agents to process them. The agents also share information to work better together.
 
 ##Features
 <li> Handles PDF, JSON, and Email inputs </li> 
